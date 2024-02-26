@@ -1,11 +1,10 @@
 :root {
-  --bg: #38383e;
-  --bgSoft: #7c7c80;
+  --bg: #0d0c22;
+  --bgSoft: #2d2b42;
   --text: white;
   --textSoft: #e5e5e5;
   --btn: #3673fd;
 }
-
 * {
   margin: 0;
   padding: 0;
